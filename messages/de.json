@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "input": {
+      "location": "Ort",
+      "distance": "Entfernung",
+      "keywords": "Stichwörter / Berufsbezeichnung / Referenznummer",
+      "placeholder": {
+        "location": "z. B. Stadt oder Postleitzahl",
+        "keywords": "z. B. Vertrieb oder Geschäftsführer"
+      }
+    },
+    "submitButton": "Jetzt Jobs finden"
+  },
+  "Footer": {
+    "jobByLocation": "Jobs nach Standort",
+    "jobByIndustry": "Jobs nach Branche"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "HomePage":{
+    "input":{
+      "location":"Location",
+      "distance":"Distance",
+      "keywords":"Keywords / Job Title / Job Ref",
+      "placeholder":{
+         "location":"e.g town or postcode",
+         "keywords":"e.g Sales or Executive"
+      }
+    },
+    "submitButton":"Find jobs now"
+  },
+  "Footer":{
+    "jobByLocation":"Jobs by Location",
+    "jobByIndustry":"Jobs by Industry"
+  }
+}

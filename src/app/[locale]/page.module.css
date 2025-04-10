@@ -1,0 +1,19 @@
+:root {
+  --primary-blue: #4488D5;
+  --secondary-blue: #073777;
+}
+
+.container{
+  min-height: 100vh;
+  background:radial-gradient(ellipse farthest-side, #005DA4, #003777);
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  color: white;
+  font-family: Arial, sans-serif;
+  position: relative;
+}
+
+
+
+
