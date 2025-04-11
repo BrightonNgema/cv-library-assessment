@@ -12,7 +12,7 @@
   font-size: 18px;
   padding:16px;
   width:240px;
-  background: #073777;
+  background: #4488D5;
   border-top:1px solid #4488D5;
   cursor: pointer;
   transition: background-color 0.4s ease, color 0.4s ease;
@@ -20,7 +20,7 @@
 
 
 .tab.active{
-  background: #4488D5;
+  background: #073777;
 }
 
 .tab:first-child {
